@@ -1,0 +1,10 @@
+{
+  "name": "y",
+  "version": "y",
+  "main": "y",
+  "author": "MontyJava",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.6.0"
+  }
+}
